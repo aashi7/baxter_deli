@@ -1,0 +1,8 @@
+prefix=/home/cs4752/ros_ws/install
+
+Name: seam
+Description: Description of seam
+Version: 0.0.0
+Cflags: -I/home/cs4752/ros_ws/install/include
+Libs: -L/home/cs4752/ros_ws/install/lib -lseam
+Requires: rospy std_msgs geometry_msgs sensor_msgs message_runtime

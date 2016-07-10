@@ -1,0 +1,8 @@
+prefix=/home/cs4752/ros_ws/devel
+
+Name: gatlin
+Description: Description of gatlin
+Version: 0.0.0
+Cflags: -I/home/cs4752/ros_ws/devel/include
+Libs: -L/home/cs4752/ros_ws/devel/lib 
+Requires: 

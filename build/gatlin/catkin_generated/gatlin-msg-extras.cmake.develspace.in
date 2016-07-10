@@ -1,0 +1,2 @@
+set(gatlin_MESSAGE_FILES "/home/cs4752/ros_ws/src/gatlin/msg/Mott.msg;/home/cs4752/ros_ws/src/gatlin/msg/Object.msg;/home/cs4752/ros_ws/src/gatlin/msg/ObjectList.msg;/home/cs4752/ros_ws/src/gatlin/msg/CommandRequest.msg;/home/cs4752/ros_ws/src/gatlin/msg/CommandRequestList.msg")
+set(gatlin_SERVICE_FILES "/home/cs4752/ros_ws/src/gatlin/srv/Action.srv;/home/cs4752/ros_ws/src/gatlin/srv/MoveRobot.srv")

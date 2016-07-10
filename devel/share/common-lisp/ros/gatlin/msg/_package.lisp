@@ -1,0 +1,19 @@
+(cl:defpackage gatlin-msg
+  (:use )
+  (:export
+   "<OBJECTLIST>"
+   "OBJECTLIST"
+   "<ACTIONRESPONSE>"
+   "ACTIONRESPONSE"
+   "<COMMANDREQUEST>"
+   "COMMANDREQUEST"
+   "<MOTT>"
+   "MOTT"
+   "<ACTIONREQUEST>"
+   "ACTIONREQUEST"
+   "<OBJECT>"
+   "OBJECT"
+   "<COMMANDREQUESTLIST>"
+   "COMMANDREQUESTLIST"
+  ))
+
